@@ -19,8 +19,10 @@
 </p>
 
 <p align="center">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+  <img src= "https://media.giphy.com/media/WEMa2gpE8huXjEKBX9/giphy.gif"/>
+  <img src= "https://media.giphy.com/media/Zk6KO1oOBeD5N3BeXj/giphy.gif"/>
 </p>
+
 
 ---
 
