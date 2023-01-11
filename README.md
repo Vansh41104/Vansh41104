@@ -7,13 +7,13 @@
 </h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kartik-jain-473ab81b2/">
+<a href="https://www.linkedin.com/in/vansh-bhatnagar-66465225b/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<a href="https://twitter.com/kartikk_26">
+<a href="https://twitter.com/vanshbh041">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
-<a href="https://instagram.com/kartik__j26?igshid=YmMyMTA2M2Y=">
+<a href="https://instagram.com/bhatnagar__vansh__20909">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
@@ -61,7 +61,7 @@ hobbies: ["Travelling", "Games", "Music"]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/f0rsaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="f0rsaken" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vansh bhatnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansh bhatnagar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vansh-bhatnagar-66465225b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansh bhatnagar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/vansh bhatnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vansh bhatnagar" height="30" width="40" /></a>
 <a href="https://instagram.com/bhatnagar__vansh__20909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhatnagar_vansh_20909" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vansh041004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vansh041004" height="30" width="40" /></a>
