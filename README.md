@@ -20,7 +20,6 @@
 
 <p align="center">
   <img src= "https://media.giphy.com/media/WEMa2gpE8huXjEKBX9/giphy.gif"/>
-  <img src= "https://media.giphy.com/media/Zk6KO1oOBeD5N3BeXj/giphy.gif"/>
 </p>
 
 
@@ -28,7 +27,7 @@
 
 <h2> 👨🏻‍💻 A Little Bit About Me and My Interests</h2>
 
-yaml
+```yaml
 name: Vansh Bhatnagar
 located_in: Udaipur, Rajasthan
 current_course: Btech CSE
@@ -55,7 +54,7 @@ technical_background:
 currently_learning: ["Python,C++,CSS"]
 2023 Goals: ["Create 20+ Project On C++ & Python."]
 hobbies: ["Travelling", "Games", "Music"]
-
+```
 
 ---  
   
