@@ -79,12 +79,10 @@ hobbies: ["A lot of Coding" ,"Travelling", "Games", "Music"]
 <p><a href="https://www.buymeacoffee.com/vanshbhatnf"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Vansh Bhatnagar" /></a></p><br><br>
 
 # 📈 GitHub Stats:
-<p align="center">
 <a href="https://github.com/Vansh41104">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vansh41104&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh41104&theme=noctis_minimus&layout=compact" />
 </a>
-</p>
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vansh41104&bg_color=000000&color=3caa6b&line=194011&point=107c0e&area=true&hide_border=true" width="100%">
 <p align="center">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif"/>
