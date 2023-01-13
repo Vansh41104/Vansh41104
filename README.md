@@ -53,7 +53,7 @@ technical_background:
   
 currently_learning: ["Python,C++,CSS"]
 2023 Goals: ["Create 20+ Project On C++ & Python."]
-hobbies: ["Travelling", "Games", "Music"]
+hobbies: ["A lot of Coding" ,"Travelling", "Games", "Music"]
 ```
 
 ---  
