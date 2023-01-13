@@ -88,7 +88,8 @@ hobbies: ["A lot of Coding" ,"Travelling", "Games", "Music"]
 <p align="left">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif"/>
 </p>
+<img src="https://camo.githubusercontent.com/5727cceaf70d64b4b7b227987461b67ec8a93473be1cdb2a2ac72b507c72bba0/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e6379636c69632e6170702f67726170683f757365726e616d653d7472696e696226637573746f6d5f7469746c653d254532253936253931254532253936253931282545322539372541335f2545322539372541322925453225393625393125453225393625393126686964655f626f726465723d74727565267468656d653d72656163742d6461726b26636f6c6f723d303064363638266c696e653d30306436363826706f696e743d386230303765" width="100%">
 
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+### ✍ Random Dev Quote                                                                                                    
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)<img src="https://camo.githubusercontent.com/d809aad38fc10dac3806149506748f6c116f4602e9df8e0e93de1819b4d901ae/68747470733a2f2f6d656d65722d7472696e69622e76657263656c2e6170702f" align="right" width="260px"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
