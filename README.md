@@ -76,13 +76,6 @@ hobbies: ["Travelling", "Games", "Music"]
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Vansh Bhatnagar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Vansh Bhatnagar" /></a></p><br><br>
-<p align="right">
-  <img src= "https://media.giphy.com/media/xQ7NKUKR2qg0jQ5uwC/giphy.gif"/>
-</p>
-<p align="left">
-  <img src= "https://media.giphy.com/media/bolkfkuGRbSz6BI8op/giphy.gif"/>
-</p>
-
 
 # 📈 GitHub Stats:
 
@@ -97,12 +90,4 @@ hobbies: ["Travelling", "Games", "Music"]
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
-
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Kartikk-26&icon=1&color=12)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
