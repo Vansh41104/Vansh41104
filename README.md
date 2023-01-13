@@ -60,6 +60,7 @@ hobbies: ["A lot of Coding" ,"Travelling", "Games", "Music"]
 <h2> 🚀 Some Tools I Have Used and Learned</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://twitter.com/vanshbh041" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384065.png" alt="vansh bhatnagar" height="30" width="40" /></a>
 <a href="https://dev.to/vansh4104" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="vansh bhatnagar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vansh-bhatnagar-66465225b/" target="blank"><img align="center" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="vansh bhatnagar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20820709/vansh-bhatnagar" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1220067947798024192/30eZhfxx_400x400.png" alt="vansh bhatnagar" height="30" width="40" /></a>
