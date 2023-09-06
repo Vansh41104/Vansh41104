@@ -50,8 +50,8 @@ technical_background:
     "Enrolled With IIT Madras For Python Course",
   ]
   
-currently_learning: ["Python,C++,CSS"]
-2023 Goals: ["Create 20+ Project On C++ & Python."]
+currently_learning: ["Python,C++,CSS,HTML,Java Script,Unreal Engine 5,MySQL,MongoDB"]
+2023 Goals: ["Create 20+ Project On C++ & Python.Create Something new in Unreal Engine"]
 hobbies: ["A lot of Coding" ,"Travelling", "Games", "Music"]
 ```
 
