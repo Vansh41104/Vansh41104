@@ -83,12 +83,12 @@ hobbies: ["A lot of Coding" ,"Travelling", "Games", "Music"]
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vansh41104&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh41104&theme=noctis_minimus&layout=compact" />
 </a>
-<!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vansh41104&bg_color=000000&color=3caa6b&line=194011&point=107c0e&area=true&hide_border=true" width="100%">
-<p align="center">
+<!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vansh41104&bg_color=000000&color=3caa6b&line=194011&point=107c0e&area=true&hide_border=true" width="100%"> -->
+<!-- <p align="center"> -->
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif"/>
 </p> 
 <p align="center">
- Random Dev Quotes -->
+ Random Dev Quotes
  </p>
 <p align="center">
 <img src="https://camo.githubusercontent.com/8a7a51548b2c84fc3e34153a4b25983d67f66daf7973920f7c410fcf719f4643/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d766572746963616c267468656d653d6d65726b6f">
