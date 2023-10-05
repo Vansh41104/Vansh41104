@@ -80,7 +80,7 @@ hobbies: ["A lot of Coding" ,"Travelling", "Games", "Music"]
 
 # 📈 GitHub Stats:
 <a href="https://github.com/Vansh41104">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vansh41104&theme=noctis_minimus" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vansh41104&theme=noctis_minimus&show_items=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh41104&theme=noctis_minimus&layout=compact" />
 </a>
 <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vansh41104&bg_color=000000&color=3caa6b&line=194011&point=107c0e&area=true&hide_border=true" width="100%"> -->
