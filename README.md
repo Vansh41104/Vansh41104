@@ -85,8 +85,8 @@ hobbies: ["A lot of Coding" ,"Travelling", "Games", "Music"]
 </a>
 <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vansh41104&bg_color=000000&color=3caa6b&line=194011&point=107c0e&area=true&hide_border=true" width="100%"> -->
 <!-- <p align="center"> -->
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif"/>
-</p> 
+<!--   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif"/>
+</p>  -->
 <p align="center">
  Random Dev Quotes
  </p>
