@@ -81,9 +81,9 @@ hobbies: ["A lot of Coding" ,"Travelling", "Games", "Music"]
 # 📈 GitHub Stats:
 <a href="https://github.com/Vansh41104">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vansh41104&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vansh41104&theme=highcontrast&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vansh41104&theme=highcontrast&show_icons=true" /></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh41104&theme=highcontrast&layout=compact" />
-</a>
+
 <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vansh41104&bg_color=000000&color=3caa6b&line=194011&point=107c0e&area=true&hide_border=true" width="100%"> -->
 <!-- <p align="center"> -->
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif"/>
