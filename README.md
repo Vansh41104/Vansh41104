@@ -84,7 +84,7 @@ hobbies: ["A lot of Coding" ,"Travelling", "Games", "Music"]
   <a href="https://git.io/streak-stats">
   <p align="center"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Vansh41104&theme=highcontrast&show_icons=true" />
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh41104&theme=highcontrast&layout=donut" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Vansh41104&theme=highcontrast%22%20alt=%22GitHub%20Streak" /></a></p>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Vansh41104&theme=highcontrast&hide_border=true" /></a></p>
   <p align="center">
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Vansh41104&bg_color=000000&color=ffffff&line=e5f231&point=e4950c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></p>p
 
