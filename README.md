@@ -87,12 +87,7 @@ hobbies: ["A lot of Coding" ,"Travelling", "Games", "Music"]
   <img height="180em" src="https://streak-stats.demolab.com/?user=Vansh41104&theme=highcontrast&show_icns=true" /></a></p>
   <p align="center">
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Vansh41104&bg_color=000000&color=ffffff&line=e5f231&point=e4950c&area=true&show_icons=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></p>
-
-<!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vansh41104&bg_color=000000&color=3caa6b&line=194011&point=107c0e&area=true&hide_border=true" width="100%"> -->
-<p align="center"> 
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif"/>
-</p> 
-
+  
 # Badges
   
   [![An image of @vansh41104's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vansh41104)](https://holopin.io/@vansh41104)
