@@ -92,17 +92,18 @@ hobbies: ["A lot of Coding" ,"Travelling", "Games", "Music"]
 <p align="center"> 
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif"/>
 </p> 
-<p align="center">
+
+# Badges
   
   [![An image of @vansh41104's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vansh41104)](https://holopin.io/@vansh41104)
- <p align="center">Random Dev Quotes</p>
- </p>
+# Random Dev Quotes
+ 
 <p align="center">
 <img src="https://camo.githubusercontent.com/8a7a51548b2c84fc3e34153a4b25983d67f66daf7973920f7c410fcf719f4643/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d766572746963616c267468656d653d6d65726b6f">
 </p>
-<p align="center">
-<p align="center">Memes</p>
-</p>
+
+# Memes
+
  <p align="center">
 <img src="https://camo.githubusercontent.com/d809aad38fc10dac3806149506748f6c116f4602e9df8e0e93de1819b4d901ae/68747470733a2f2f6d656d65722d7472696e69622e76657263656c2e6170702f" width="320px"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
