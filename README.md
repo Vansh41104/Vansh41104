@@ -13,7 +13,7 @@
 <a href="https://twitter.com/vanshbh041">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
-<a href="https://www.instagram.com/bhatnagar___vansh___20909/">
+<a href="https://www.instagram.com/vansh._410/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
@@ -65,7 +65,7 @@ hobbies: ["A lot of Coding" ,"Travelling", "Games", "Music"]
 <a href="https://dev.to/vansh4104" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="vansh bhatnagar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vansh-bhatnagar-66465225b/" target="blank"><img align="center" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="vansh bhatnagar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20820709/vansh-bhatnagar" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="vansh bhatnagar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/bhatnagar___vansh___20909/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="bhatnagar_vansh_20909" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vansh._410/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="bhatnagar_vansh_20909" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vansh041004" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/500/codechef.png" alt="vansh041004" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vanshbhatnagar445" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png?w=128&f=avif" alt="vanshbhatnagar445" height="30" width="40" /></a>
 <a href="https://discord.gg/f0rsaken#5168" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5493894cf60b300587_full_logo_white_RGB.svg" alt="f0rsaken#5168" height="50" width="90" /></a>
