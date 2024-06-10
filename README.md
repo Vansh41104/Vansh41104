@@ -47,8 +47,10 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Digital 101 Certified For ML",
-    "Enrolled With IIT Madras For Python Course",
+    "ChatBots",
+    "Machine Learning",
+    "Neural Networks",
+    "API & LLM's",
   ]
   
 currently_learning: ["Python,C++,CSS,HTML,Java Script,Unreal Engine 5,MySQL,MongoDB,C#,Dotnet8,ASPDotnetCore,"]
